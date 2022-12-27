@@ -1,0 +1,36 @@
+_repo: The-kiss-to-the-leper_69443
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Whitall, James
+    gutenberg_agent_id: '55267'
+    url: http://www.gutenberg.org/2009/agents/55267
+creator:
+  author:
+    agent_name: Mauriac, François
+    aliases:
+    - Mauriac, Francois
+    - De Mauriac, François
+    birthdate: 1885
+    deathdate: 1970
+    gutenberg_agent_id: '45991'
+    url: http://www.gutenberg.org/2009/agents/45991
+description: ''
+gutenberg_issued: '2022-11-29'
+identifiers:
+  gutenberg: '69443'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/101967753
+pgterms:marc905: 20221029035155mauriac
+pgterms:marc906: '1923'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: 'UK: William Heinemann,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The kiss to the leper
+url: http://www.gutenberg.org/ebooks/69443
