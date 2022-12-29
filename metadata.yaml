@@ -5,6 +5,9 @@ contributor:
     agent_name: Whitall, James
     gutenberg_agent_id: '55267'
     url: http://www.gutenberg.org/2009/agents/55267
+covers:
+- cover_type: archival
+  image_path: 69443-h/images/cover.jpg
 creator:
   author:
     agent_name: Mauriac, François
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '45991'
     url: http://www.gutenberg.org/2009/agents/45991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69443#The-kiss-to-the-leper
 gutenberg_issued: '2022-11-29'
 identifiers:
   gutenberg: '69443'
